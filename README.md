@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SonicShulk100
 - 👀 I’m interested in Programming languages
 - 🌱 I’m currently learning PHP, Java, C#, Python concerning matrixes.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/They
+- 💞️ I’m looking to collaborate on : Unavailable at the moment
+- 📫 How to reach me : Unavailable at the moment.
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
 <!---
