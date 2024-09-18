@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on : Unavailable at the moment
 - 📫 How to reach me : Unavailable at the moment.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm hit with a light autism, which limited me to communications.
 
 <!---
 SonicShulk100/SonicShulk100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
